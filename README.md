@@ -1,2 +1,3 @@
 Portfolio
-http://127.0.0.1:5500/index.html
+
+joyful-starlight-38366d.netlify.app
